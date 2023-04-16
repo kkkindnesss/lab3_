@@ -1,0 +1,30 @@
+#title
+{background-color: #ff4c68;
+}
+h1{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+
+}
+.fa-sharp {
+    font-size: 3em;
+  }
+  .fa-bullseye {
+    font-size: 3em;
+  }
+ .fa-heart {
+    font-size: 3em;
+ }  
+ section {
+    margin-bottom: 50px;
+    line-height: 2.0;
+  }
+  .feature-icon:hover {
+    color: #ff4c68;
+  }
